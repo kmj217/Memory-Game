@@ -18,10 +18,10 @@ https://github.com/kmj217/Memory-Game.git
 ```
 2. Open the repo and execute the following in the bash terminal. Doing so should install the required packages/dependencies:
 ```
-yarn install
+npm install
 ```
 
 3. Ready to play on your local? Try:
 ```
-yarn start
+npm start
 ```
